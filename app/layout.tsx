@@ -13,13 +13,14 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Morgan | Full-Stack Developer & Creative",
-  description:
-    "Innovative full-stack developer specializing in modern web technologies, with a passion for beautiful design and creative ventures.",
+  title: "Pedro Novais | Engenheiro de Software",
+  description: "Portfolio de Pedro Novais - Software Engineer, Creator & Founder",
+  icons: {
+    icon: "favicon.svg",
+  },
   openGraph: {
-    title: "Alex Morgan | Full-Stack Developer & Creative",
-    description:
-      "Innovative full-stack developer specializing in modern web technologies, with a passion for beautiful design and creative ventures.",
+    title: "Pedro Novais | Engenheiro de Software",
+    description: "Portfolio de Pedro Novais - Software Engineer, Creator & Founder",
     type: "website",
   },
 };
