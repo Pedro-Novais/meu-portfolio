@@ -10,7 +10,8 @@ const projects = [
     "description": "Plataforma de ensino de inglês via WhatsApp integrada com IA para conversação em tempo real e feedback automatizado.",
     "technologies": ["Python", "Flask", "OpenAI API", "Redis", "WhatsApp API"],
     "image": "gradient-to-br from-blue-700 via-blue-800 to-slate-900",
-    "link": "#"
+    "link": "#",
+    "featured": true
   },
 ]
 
